@@ -6,7 +6,7 @@ Simple CSV file Manipulation for
 
 3. finds the longest 5 records in the dataset
 
-4. searches if there are any duplicates records in the set (and note how you define "duplicate")
+<del>4. searches if there are any duplicates records in the set (and note how you define "duplicate")</del>
 
 5. finds all records that were created in the first month of the data set's existence.
 

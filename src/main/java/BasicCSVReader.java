@@ -14,10 +14,6 @@ import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.*;
 
-/*
-import custom package lpshibaba for "calculate the running time"
- */
-
 public class BasicCSVReader {
     private static int recordCount = 0;
     private static List<Double> actualMeanTempList = new ArrayList<>();
